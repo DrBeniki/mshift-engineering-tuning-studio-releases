@@ -5,14 +5,13 @@ This repository hosts downloads only, not proprietary application source.
 
 ## Download v17.2.1
 
-[Windows installer — unsigned prerelease](https://github.com/DrBeniki/mshift-engineering-tuning-studio-releases/releases/download/v17.2.1/MShiftEngineeringTuningStudioSetup_v17.2.1.exe)
+[Windows installer — v17.2.1](https://github.com/DrBeniki/mshift-engineering-tuning-studio-releases/releases/download/v17.2.1/MShiftEngineeringTuningStudioSetup_v17.2.1.exe)
 
 [Release notes and SHA-256 file](https://github.com/DrBeniki/mshift-engineering-tuning-studio-releases/releases/tag/v17.2.1)
 
 This installer is unsigned. Windows may display an unknown-publisher warning.
 Verify the downloaded file against the release checksum before running it.
-Studio's stable automatic update channel does not offer prereleases; install this
-version manually. Previous releases remain available for rollback.
+Studio checks for newer releases when opened and offers the installer download; updates are not installed automatically. Previous releases remain available for rollback.
 
 ## Licences
 
