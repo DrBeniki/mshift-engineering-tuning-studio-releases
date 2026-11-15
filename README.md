@@ -3,11 +3,11 @@
 Windows tuning and diagnostics for MSS65 DME and SMG III TCU, including MSHFT Ultra.
 This repository hosts downloads only, not proprietary application source.
 
-## Download v17.3.24
+## Download v17.3.25
 
-[Windows installer — v17.3.24](https://github.com/DrBeniki/mshift-engineering-tuning-studio-releases/releases/download/v17.3.24/MShiftEngineeringTuningStudioSetup_v17.3.24.exe)
+[Windows installer — v17.3.25](https://github.com/DrBeniki/mshift-engineering-tuning-studio-releases/releases/download/v17.3.25/MShiftEngineeringTuningStudioSetup_v17.3.25.exe)
 
-[Release notes and SHA-256 file](https://github.com/DrBeniki/mshift-engineering-tuning-studio-releases/releases/tag/v17.3.24)
+[Release notes and SHA-256 file](https://github.com/DrBeniki/mshift-engineering-tuning-studio-releases/releases/tag/v17.3.25)
 
 This installer is unsigned. Windows may display an unknown-publisher warning.
 Verify the downloaded file against the release checksum before running it.
