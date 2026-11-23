@@ -3,11 +3,11 @@
 Windows tuning and diagnostics for MSS65 DME and SMG III TCU, including MSHFT Ultra.
 This repository hosts downloads only, not proprietary application source.
 
-## Download v17.3.25
+## Download v17.3.26
 
-[Windows installer — v17.3.25](https://github.com/DrBeniki/mshift-engineering-tuning-studio-releases/releases/download/v17.3.25/MShiftEngineeringTuningStudioSetup_v17.3.25.exe)
+[Windows installer — v17.3.26](https://github.com/DrBeniki/mshift-engineering-tuning-studio-releases/releases/download/v17.3.26/MShiftEngineeringTuningStudioSetup_v17.3.26.exe)
 
-[Release notes and SHA-256 file](https://github.com/DrBeniki/mshift-engineering-tuning-studio-releases/releases/tag/v17.3.25)
+[Release notes and SHA-256 file](https://github.com/DrBeniki/mshift-engineering-tuning-studio-releases/releases/tag/v17.3.26)
 
 This installer is unsigned. Windows may display an unknown-publisher warning.
 Verify the downloaded file against the release checksum before running it.
@@ -16,8 +16,8 @@ Studio checks for newer releases when opened and offers the installer download; 
 ## Licences
 
 - Basic DME features are free.
-- Premium and Ultra are distinct, VIN-bound products. Ultra is available by
-  private application / price on application: [info@mshiftengineering.com](mailto:info@mshiftengineering.com).
+- Premium and Ultra are distinct, VIN-bound products. Current plans and pricing are available at
+  [M-Shift Engineering](https://www.mshiftengineering.com/).
 - Ultra includes SMG III TCU tuning. VIN assignment happens when connected to the
   DME; do not manually enter a VIN to obtain an entitlement.
 - Initial activation and Ultra access provisioning require internet. Subsequent
